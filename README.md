@@ -4,6 +4,12 @@
 
 ## init
 
+### go init
+
 ```bash
-buf mod init
+go mod init github.com/pixb/go-protobuf
+```
+
+```bash
+buf config init
 ```

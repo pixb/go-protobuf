@@ -10,6 +10,4 @@
 go mod init github.com/pixb/go-protobuf
 ```
 
-```bash
-buf config init
-```
+buf use [buf README](./proto/README.md)
